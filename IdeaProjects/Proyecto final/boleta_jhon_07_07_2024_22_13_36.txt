@@ -1,0 +1,13 @@
+---------------------------------
+.........Boleta de Pago..........
+---------------------------------
+Cliente: jhon
+Fecha: 07/07/2024 22:13:36
+......GRACIAS POR SU COMPRA......
+---------------------------------
+Descripción: Gasolina seleccionada
+Precio sin IGV: S/ 17.99
+IGV (18%): S/ 3.2381999999999995
+Total a pagar: S/ 21.228199999999998
+Método de Pago: Tarjeta
+---------------------------------

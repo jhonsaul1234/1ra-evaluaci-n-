@@ -1,0 +1,15 @@
+---------------------------------
+.........Boleta de Pago..........
+---------------------------------
+......GRACIAS POR SU COMPRA......
+---------------------------------
+Fecha: 07/07/2024 23:09:43
+Cliente: jhon
+Descripción: Gas seleccionado
+Precio sin IGV: S/ 50.0
+IGV (18%): S/ 9.0
+Total a pagar: S/ 59.0
+Método de Pago: Efectivo
+Monto Entregado por jhon: S/ 1000.0
+Cambio: S/ 941.0
+---------------------------------

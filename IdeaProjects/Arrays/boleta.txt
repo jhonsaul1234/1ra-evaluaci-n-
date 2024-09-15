@@ -1,0 +1,4 @@
+----BOLETA DE VENTA---------
+SUBTOTAL: S/3.0
+IGV: S/0.54
+TOTAL: S/3.54
